@@ -1,6 +1,6 @@
 {
-  "name": "@josephsentongo/mynpm",
-  "version": "11.0.0",
+  "name": "@josephsentongo/mynpm_package",
+  "version": "12.0.0",
   "description": "just see",
   "main": "index.js",
   "type": "module",
